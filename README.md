@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td><b>📍 Location</b></td>
-    <td>Coimbatore,India</td>
+    <td>Coimbatore, India</td>
   </tr>
   <tr>
     <td><b>📧 Email</b></td>
@@ -70,7 +70,7 @@
     <td><b>Full Stack Developer</b><br>
     • Built a full-stack MERN stack booking platform for photography studio<br>
     • Developed admin panel with real-time UI and form validation for users to book photography sessions<br>
-    • Project hosted at <a href="https://haarsih-photography.onrender.com">Haarsih Photography</a></td>
+    • Project hosted at <a href="https://photo-graph-67j8.vercel.app/">Haarsih Photography</a></td>
     <td><b>Aug 2025</b></td>
   </tr>
   <tr>
@@ -88,28 +88,29 @@
 
 ### 📱 **BloodLink - Real-Time Blood Donation App**
 
-<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" alt="Production Status">
+<img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" alt="Development Status">
 
 **🩸 Life-Saving Blood Donation Platform**
 
 - 🎯 **Real-time donor location** tracking with instant real-time matching based on city and blood group
 - 💉 **Features:** Frontend, backend application, interactive blood request system for users with PWN and Web push notification and support
 - 🔐 **Secure OTP login**, detailed request forms with medical conditions, seamless backend-driven notification delivery
-- 📱 **Built for real-time** communication between donors, requesters, and healthcare providers using Socket.io, Express, MongoDB, and JavaScript
+- 📱 **Built for real-time** communication between donors, requesters, and healthcare providers
 
 **Tech Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
-🔗 **[View Project](https://github.com/Haarhish-vs/BloodLink)**
+🔗 **[View Project](https://github.com/Haarhish-vs/MyNewApp.git)**
 
 ---
 
 ### 🚌 **College Bus System - Real-Time Campus Transport App**
 
-<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" alt="Live Status">
+<img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" alt="Development Status">
 
 **🎓 Smart Campus Transportation Solution**
 
@@ -120,17 +121,18 @@
 
 **Tech Stack:**
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
-🔗 **[View Project](https://github.com/Haarhish-vs/College-Bus-System)**
+🔗 **[View Project](https://github.com/Haarhish-vs/Siet-Bus-Tracking)**
 
 ---
 
-### 💬 **Connect - Real-Time Chat & Social Messaging App**
+### 💬 **Connexa - Real-Time Chat & Social Messaging App**
 
-<img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge" alt="Active Status">
+<img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" alt="Development Status">
 
 **🌐 Modern Social Communication Platform**
 
