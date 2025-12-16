@@ -357,9 +357,8 @@ _Mobile App Development, Cross-platform Solutions_
 | ☕ **Coffee Consumed**       | 500+ cups |
 | 💻 **Lines of Code Written** | 30,000+   |
 | 📱 **Mobile Apps Built**     | 10+       |
-| 🚀 **Projects Deployed**     | 5+        |
-| 🔥 **GitHub Commits**        | 800+      |
-| 📚 **Technologies Learned**  | 20+       |
+| 🚀 **Projects Deployed**     | 1         |
+| 📚 **Technologies Learned**  | 15+       |
 
 </div>
 
@@ -369,24 +368,17 @@ _Mobile App Development, Cross-platform Solutions_
 
 <div align="center">
 
-### 🚀 **2025 Roadmap**
-
-```mermaid
-graph LR
-    A[Master React Native] --> B[Learn Advanced Firebase]
-    B --> C[Explore Microservices]
-    C --> D[Cloud Technologies]
-    D --> E[Publish Apps on Play Store]
-    E --> F[Contribute to Open Source]
-```
+### 🚀 **2025 Mobile App Development Roadmap**
 
 **Goals:**
 
 - 🎯 Master advanced React Native patterns and performance optimization
-- ☁️ Deploy scalable mobile applications with cloud backends
+- ☁️ Deploy scalable mobile applications with Firebase and cloud backends
 - 📱 Publish production-ready apps on Google Play Store and App Store
 - 🌟 Contribute to major open-source React Native projects
-- 🏆 Build a portfolio of 10+ professional mobile applications
+- 🏆 Build a portfolio of professional mobile applications
+- 🔥 Learn advanced state management and mobile architecture patterns
+- 📲 Explore cross-platform mobile development best practices
 
 </div>
 
