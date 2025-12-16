@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td><b>📍 Location</b></td>
-    <td>Kumbakonam, Chennai, India</td>
+    <td>Coimbatore,India</td>
   </tr>
   <tr>
     <td><b>📧 Email</b></td>
