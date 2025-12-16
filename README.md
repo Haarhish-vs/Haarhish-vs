@@ -2,7 +2,7 @@
   
 # 🚀 HAARHISH V S 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=React+Native+Mobile+App+Developer;Full+Stack+Developer;Building+Real-World+Solutions;MERN+Stack+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=React+Native+Mobile+App+Developer;MERN+Stack+Developer;Building+Real-World+Solutions;React+Native+Enthusiast)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -29,15 +29,15 @@
   </tr>
   <tr>
     <td><b>📍 Location</b></td>
-    <td>Coimbatore, Valapudur Main, India</td>
+    <td>Kumbakonam, Chennai, India</td>
   </tr>
   <tr>
     <td><b>📧 Email</b></td>
-    <td><a href="mailto:haarhishhaarhish1810@gmail.com">haarhishhaarhish1810@gmail.com</a></td>
+    <td><a href="mailto:haarhishhaarhish43@gmail.com">haarhishhaarhish43@gmail.com</a></td>
   </tr>
   <tr>
     <td><b>🔗 LinkedIn</b></td>
-    <td><a href="https://linkedin.com/in/haarhish-vs">linkedin.com/in/haarhish-vs</a></td>
+    <td><a href="https://www.linkedin.com/in/haarhish-vs">linkedin.com/in/haarhish-vs</a></td>
   </tr>
   <tr>
     <td><b>💻 GitHub</b></td>
@@ -145,7 +145,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
-🔗 **[View Project](https://github.com/Haarhish-vs/Connect)**
+🔗 **[View Project](https://github.com/Haarhish-vs/Connexa.git)**
 
 ---
 
@@ -154,8 +154,7 @@
 ### 🔥 **Programming Languages**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
@@ -163,7 +162,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 </p>
 
@@ -172,7 +170,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
 </p>
 
 ### 🗄️ **Databases & Cloud**
@@ -244,25 +242,21 @@ _API Design, Integration, Documentation_
 
 ### 💻 **Core Programming**
 
-**C Programming**  
-![C](https://img.shields.io/badge/C-███████░░░-00599C?style=for-the-badge&logo=c) **75%**  
-_System Programming, Data Structures_
-
-**C++**  
-![C++](https://img.shields.io/badge/C++-███████░░░-00599C?style=for-the-badge&logo=cplusplus) **70%**  
-_OOP, Algorithms, Problem Solving_
+**Java**  
+![Java](https://img.shields.io/badge/Java-███████░░░-ED8B00?style=for-the-badge&logo=openjdk) **75%**  
+_OOP, Data Structures, Problem Solving_
 
 ---
 
-### 🎨 **Frontend & Design**
+### 🎨 **Frontend Development**
 
 **React**  
 ![React](https://img.shields.io/badge/React-████████░░-61DAFB?style=for-the-badge&logo=react) **80%**  
 _Component Architecture, State Management, Hooks_
 
-**UI/UX Design**  
-![UI/UX](https://img.shields.io/badge/UI/UX_Design-███████░░░-FF61F6?style=for-the-badge) **75%**  
-_User-Centric Design, Responsive Interfaces_
+**React Native**  
+![React Native](https://img.shields.io/badge/React_Native-█████████░-20232A?style=for-the-badge&logo=react) **90%**  
+_Mobile App Development, Cross-platform Solutions_
 
 </div>
 
@@ -304,14 +298,14 @@ _User-Centric Design, Responsive Interfaces_
 
 <div align="center">
 
-| Skill                     | Proficiency                                        |
-| ------------------------- | -------------------------------------------------- |
-| 🗣️ **Communication**      | ![90%](https://progress-bar.dev/90?color=00d9ff)   |
-| 🧩 **Problem Solving**    | ![95%](https://progress-bar.dev/95?color=00ff88)   |
-| 🤝 **Team Collaboration** | ![90%](https://progress-bar.dev/90?color=ff6b6b)   |
-| ⏱️ **Time Management**    | ![85%](https://progress-bar.dev/85?color=ffd93d)   |
-| 📚 **Fast Learner**       | ![95%](https://progress-bar.dev/95?color=a29bfe)   |
-| 🚀 **Growth Mindset**     | ![100%](https://progress-bar.dev/100?color=6c5ce7) |
+| Skill                  | Proficiency                                        |
+| ---------------------- | -------------------------------------------------- |
+| **Communication**      | ![90%](https://progress-bar.dev/90?color=00d9ff)   |
+| **Problem Solving**    | ![95%](https://progress-bar.dev/95?color=00ff88)   |
+| **Team Collaboration** | ![90%](https://progress-bar.dev/90?color=ff6b6b)   |
+| **Time Management**    | ![85%](https://progress-bar.dev/85?color=ffd93d)   |
+| **Fast Learner**       | ![95%](https://progress-bar.dev/95?color=a29bfe)   |
+| **Growth Mindset**     | ![100%](https://progress-bar.dev/100?color=6c5ce7) |
 
 </div>
 
@@ -324,16 +318,16 @@ _User-Centric Design, Responsive Interfaces_
 **🤝 Let's build something amazing together!**
 
 <p>
-  <a href="mailto:haarhishhaarhish1810@gmail.com">
+  <a href="mailto:haarhishhaarhish43@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/haarhish-vs">
+  <a href="https://www.linkedin.com/in/haarhish-vs">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Haarhish-vs">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="tel:+919080063571">
+  <a href="tel:+917695908575">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   </a>
 </p>
@@ -399,19 +393,6 @@ graph LR
 ---
 
 <div align="center">
-
-## 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Haarhish-vs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haarhish-vs&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haarhish-vs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Haarhish-vs&color=00d9ff&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/Haarhish-vs?style=for-the-badge&color=00ff88)](https://github.com/Haarhish-vs?tab=followers)
